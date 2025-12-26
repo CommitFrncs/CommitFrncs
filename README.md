@@ -12,7 +12,7 @@
 
 <div align="center">
   <a target="_blank" align="center">
-    <img align="center" top="500" height="200" width="400" alt="Typing GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+    <img align="center" top="100" height="200" width="400" alt="Typing GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   </a>
 </div>
 
