@@ -62,11 +62,11 @@ Most of my learning happens through **building real projects**, breaking them, a
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/CommitFrncs">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:fajayi175@gmail.com">
   <img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
