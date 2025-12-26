@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=200&text=Francis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Oriented%20Developer%20|%20Frontend%20+%20JavaScript%20Focus&descAlignY=60&descSize=16"/>
 </div>
 
-<p align="center">
+<p align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Francis;I+build+and+break+things+to+learn;Future+Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=30&duration=4000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Francis+Ajayi;Welcome+to+My+Profile!" alt="Typing SVG" /> 
   </a>
 </p>
 
