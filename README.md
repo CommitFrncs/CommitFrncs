@@ -47,11 +47,11 @@ Most of my learning happens through **building real projects**, breaking them, a
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="100%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CommitFrncs&theme=tokyonight" width="100%"/>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" width="45%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" width="45%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CommitFrncs&theme=tokyonight" width="45%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CommitFrncs&theme=tokyonight" width="45%"/>
 </p>
 
 </div>
