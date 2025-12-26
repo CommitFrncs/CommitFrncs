@@ -1,27 +1,23 @@
 # Hi, I’m Francis 👋
 
-I’m a front-end focused developer currently rebuilding my foundation with a structured, long-term roadmap.
+I’m a full-stack–oriented developer with a strong front-end foundation, currently focused on deepening my JavaScript skills and building solid, real-world projects.
 
-Right now, my focus is on:
-- Writing clean, readable HTML
-- Building responsive layouts with CSS
-- Strengthening core JavaScript fundamentals
-- Developing real projects instead of tutorials
+I’m comfortable working with HTML and CSS to create clean, responsive interfaces, and I’m actively improving how I use JavaScript to structure logic, handle state, and write maintainable code.
 
-I’m intentionally keeping this profile minimal while I sharpen my skills and ship consistent work.
+This profile reflects ongoing growth through consistent practice and project-based learning.
 
 ---
 
-## 🧠 Current Focus
+## 🔍 Current Focus
 
-- Front-end fundamentals (HTML, CSS, JavaScript)
-- Git & GitHub workflows
-- Clean UI, structure, and maintainability
-- Learning by building, breaking, and rebuilding
+- Advanced JavaScript fundamentals and patterns  
+- Front-end architecture and maintainable code structure  
+- Git & GitHub workflows in real projects  
+- Learning by building, breaking, and refining implementations  
 
 ---
 
-## 🛠 Tech Stack (Actively Using)
+## 🛠 Tech Stack
 
 - HTML  
 - CSS  
@@ -29,32 +25,28 @@ I’m intentionally keeping this profile minimal while I sharpen my skills and s
 - Git & GitHub  
 - VS Code  
 
-*(This list will grow as my roadmap progresses.)*
-
 ---
 
-## 📈 What This Profile Represents
+## 📌 What This Profile Represents
 
-This GitHub profile documents my growth as a developer:
-- Real projects
-- Consistent commits
-- Clear improvement over time
+This GitHub is a record of practical development work and steady improvement over time.
 
 No rushed branding.  
-No inflated claims.  
-Just progress.
+No inflated titles.  
+Just code, iteration, and progress.
 
 ---
 
-## 🚧 In Progress
+## 🤝 Open To
 
-I’m currently rebuilding my portfolio from the ground up.  
-Pinned repositories and featured projects will be added as they reach production-ready quality.
+- Knowledge sharing  
+- Collaboration on small to mid-scale projects  
+- Constructive feedback and code reviews  
 
 ---
 
 ## 📫 Contact
 
-For now, GitHub is the primary point of contact.
-
-More links will be added when relevant.
+- GitHub: follow or open an issue/discussion  
+- Email: *(add your preferred email here when ready)*  
+- WhatsApp / other links can be added when relevant
