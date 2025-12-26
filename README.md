@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=200&text=Francis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Oriented%20Developer%20|%20Frontend%20+%20JavaScript%20Focus&descAlignY=60&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=200&text=Francis+Ajayi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Oriented%20Developer%20|%20Frontend%20+%20JavaScript%20Focus&descAlignY=60&descSize=16"/>
 </div>
 
 <p align="center"> 
@@ -11,11 +11,10 @@
 ---
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=CommitFrncs&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
+  <a target="_blank" align="center">
+    <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  </a>
 </div>
-
 
 ## 🧠 About Me
 
